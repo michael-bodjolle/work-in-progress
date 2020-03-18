@@ -1,0 +1,57 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+*{
+    font-family: monospace;
+
+
+}
+.back
+{
+    background-image:url(undraw_season_change_f99v.svg) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.size
+{
+    font-size: 300px;
+}
+.text
+{
+    font-size: 50px;
+}
+.Part
+{
+    display: flex;
+    flex-direction: column;
+    color: violet;
+    text-align: center;
+    font-size: xx-large;
+    text-decoration: none;
+    border-radius: 50px 50px 50px 50px;
+    box-shadow: black 10px 10px 10px 5px;
+    max-width: 500px;
+    margin: 20px;
+
+}   
+.lien
+{
+    color: violet;
+    font-size: 20px;
+    text-align: center;
+    background-color: hotpink;
+    position: absolute ;
+    width: 100%; 
+    bottom: 0;
+    height: 100px;
+    line-height: 100px;
+    box-shadow: black 10px 10px 10px 10px ;
+
+
+} 
+a:hover
+{
+    color: white;
+}
